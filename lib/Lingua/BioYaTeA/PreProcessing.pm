@@ -4,6 +4,8 @@ use strict;
 use warnings;
 use utf8;
 
+use Lingua::YaTeA::Corpus;
+
 # use Data::Dumper;
 
 =encoding utf8

@@ -82,7 +82,7 @@ use Lingua::YaTeA;
 
 our @ISA = qw(Lingua::YaTeA);
 
-our $VERSION='0.1';
+our $VERSION='0.11';
 
 sub new {
     my ($class,$command_line_options_h,$system_config_h) = @_;
